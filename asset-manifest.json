@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cash-Withdrawal/static/css/main.7c95da12.chunk.css",
+    "main.js": "/Cash-Withdrawal/static/js/main.c7947850.chunk.js",
+    "main.js.map": "/Cash-Withdrawal/static/js/main.c7947850.chunk.js.map",
+    "runtime-main.js": "/Cash-Withdrawal/static/js/runtime-main.c5c2c0fb.js",
+    "runtime-main.js.map": "/Cash-Withdrawal/static/js/runtime-main.c5c2c0fb.js.map",
+    "static/js/2.8d0d01b4.chunk.js": "/Cash-Withdrawal/static/js/2.8d0d01b4.chunk.js",
+    "static/js/2.8d0d01b4.chunk.js.map": "/Cash-Withdrawal/static/js/2.8d0d01b4.chunk.js.map",
+    "index.html": "/Cash-Withdrawal/index.html",
+    "static/css/main.7c95da12.chunk.css.map": "/Cash-Withdrawal/static/css/main.7c95da12.chunk.css.map",
+    "static/js/2.8d0d01b4.chunk.js.LICENSE.txt": "/Cash-Withdrawal/static/js/2.8d0d01b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c2c0fb.js",
+    "static/js/2.8d0d01b4.chunk.js",
+    "static/css/main.7c95da12.chunk.css",
+    "static/js/main.c7947850.chunk.js"
+  ]
+}
